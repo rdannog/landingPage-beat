@@ -78,6 +78,7 @@ h2{
     color: black;
     font-weight: 700;
     font-size: 1.8rem;
+    cursor: pointer;
 }
 
 footer{
